@@ -1,1 +1,1 @@
-Incase of fire, commit and run.
+Incase of fire, commit, push and run.
